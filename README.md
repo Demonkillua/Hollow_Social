@@ -2,4 +2,4 @@ Hollow is a web app learning project done with React, Tailwind, and Sanity. This
 
 There are no plans to build upon this further.
 
-Testing site may be accessed [here](hollowsocial.netlify.app) and requires a google account to log in.
+Testing site may be accessed [here]("https://hollowsocial.netlify.app/") and requires a google account to log in.
